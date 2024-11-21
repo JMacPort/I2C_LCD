@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 void I2C_Write(uint8_t address, uint8_t data);
 void SYS_Init();
