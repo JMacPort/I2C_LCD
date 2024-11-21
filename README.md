@@ -1,5 +1,5 @@
 # I2C LCD
-First attempts at communicating over I2C using the STM32-F446RE board. Basic function will be to print data to the screen (source currently unknown). This project is simply for me to test out I2C communication to understand the innerworkings.
+First attempts at communicating over I2C using the STM32-F446RE board. Basic function will be to print data to the screen. This project is simply for me to test out I2C communication to understand the innerworkings.
 
 # Hardware
 - STM32-F446RE
