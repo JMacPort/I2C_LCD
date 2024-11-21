@@ -19,4 +19,4 @@ First attempts at communicating over I2C using the STM32-F446RE board. Basic fun
 - PB8(D15) to SCL
 - PB9(D14) to SDA
 
-![LCD_Screen](../images/LCD_Screen.png)
+![LCD_Screen](/images/LCD_Screen.png)
