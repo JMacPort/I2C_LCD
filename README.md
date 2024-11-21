@@ -8,7 +8,9 @@ First attempts at communicating over I2C using the STM32-F446RE board. Basic fun
 
 # Features
 - I2C Communication - Implemented
-- UART Debugged - Working on
+- Printing characters and strings to LCD screen via I2C - Implemented
+- Menu driven screen using potentiometer values and button presses - NEXT
+- UART Debugged - Future
 - Terminal Commands to control output - Future
 
 # Pins
